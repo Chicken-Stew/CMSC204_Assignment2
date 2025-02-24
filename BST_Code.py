@@ -91,7 +91,6 @@ tree = BinarySearchTree()
 tree.insert(5)
 tree.insert(3)
 tree.insert(7)
-
 # Inserting the next levels of the tree
 tree.insert(4)
 tree.insert(2)
